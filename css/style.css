@@ -28,3 +28,30 @@ header {
 .evidenziatore {
     background-color: yellow;
 }
+
+.tabella {
+    width: 100%;
+}
+
+.colonna1 {
+    width: 25%;
+    background-color: #1fa9e5;
+    color: white;
+}
+
+.colonna2 {
+    width: 25%;
+    background-color: #1fa9e5;
+    color: white;
+}
+
+.colonna3 {
+    width: 50%;
+    background-color: #1fa9e5;
+    color: white;
+}
+
+.riga1 {
+    height: 50px;
+    background-color: #b1e5f2 ;
+}
