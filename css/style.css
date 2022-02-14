@@ -47,6 +47,7 @@ h1 {
 
 .tabella {
     width: 100%;
+    border-collapse: collapse;
 }
 
 .colonna1 {
@@ -81,5 +82,12 @@ h1 {
 .imgtitle {
     display: block;
     font-size: 15px;
-    margin:
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    color: white;
+}
+
+.box-img {
+    position: relative;
 }
